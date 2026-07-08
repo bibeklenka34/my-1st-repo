@@ -20,14 +20,14 @@
 
 * Python
 * SQL
-* R (beginner)
+* C
 
 ### 📊 Data Science & Machine Learning
 
 * Pandas
 * NumPy
 * Scikit-learn
-* TensorFlow / PyTorch (learning)
+* TensorFlow / PyTorch 
 
 ### 📈 Data Visualization
 
@@ -44,13 +44,12 @@
 
 
 
-## 📂 Featured Projects (Coming Soon)
-
+## 📂 Featured Projects 
 * 📊 Exploratory Data Analysis Projects
 * 🤖 Machine Learning Models
 * 📈 Data Visualization Dashboards
 * 🧠 Predictive Analytics Projects
-
+* 🤖 Computer Vision
 
 ## 🎯 Current Goals
 
